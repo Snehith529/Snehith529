@@ -9,9 +9,9 @@ A CS Undergarduate Student. Currently working as Systems Engineer in TCS. I am p
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/kongara-snehith-a5336616a)
 
 ## ⚡️ Quick Facts
-- 🌱 I’m currently learning on Advacned Machine Learning (ML) Concepts 
+- 🌱 I’m currently learning on Advanced Machine Learning (ML) Concepts 
 - 👀 I’m interested in working on ML based projects
-- 💞️ I’m looking to collaborate on real world projects related ML 
+- 💞️ I’m looking to collaborate on real world projects related to ML 
 
 
 <!---
