@@ -7,7 +7,7 @@ Computer Science Graduate Student at University of Texas at Arlington. Worked as
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snehith529@gmail.com)](mailto:snehith529@gmail.com)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)](https://github.com/Snehith529)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/kongara-snehith-a5336616a)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kongara-snehith-a5336616a/)
 
 ## ⚡️ Quick Facts
 - 🌱 I’m currently learning on Advanced Machine Learning (ML) Concepts 
