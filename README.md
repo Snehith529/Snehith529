@@ -1,7 +1,7 @@
 #### Hi, 👋 I’m Snehith Kongara
 #### About me
 
-Computer Science Graduate Student at University of Texas at Arlington. Worked as Systems Engineer in TCS for 1 year 6 months. Completed Undergarduayion in Computer Science and Engineering at Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India. I am passionate about Machine Learning.
+Computer Science Graduate Student at University of Texas at Arlington. Worked as Systems Engineer in TCS for 1 year 6 months. Completed UnderGarduation in Computer Science and Engineering at Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada, India. I am passionate about Machine Learning.
 
 #### 📬 Contact me at
 
