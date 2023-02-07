@@ -1,6 +1,7 @@
 #### Hi, 👋 I’m Snehith Kongara
 #### About me
-A CS Undergarduate Student. Currently working as Systems Engineer in TCS. I am passionate about Machine Learning.
+
+CS Grad Student at University of Texas at Arlington. Worked as Systems Engineer in TCS. I am passionate about Machine Learning.
 
 #### 📬 Contact me at
 
